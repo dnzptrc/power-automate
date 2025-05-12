@@ -5,9 +5,9 @@
 ## Overview
 MS Teams Reminder App is a simple and efficient tool designed to help users stay organized and on track within Microsoft Teams. With this app, you can set custom reminders that are delivered directly to your Teams chat at the scheduled time — no need to rely on external apps or calendars.
 
-![screenshot of the sample](./assets/teams-reminder-2.png)
+<img src="./assets/teams-reminder-2.png" alt="screenshot of the sample" width="400"/>
 
-![screenshot of the sample](./assets/teams-reminder.png)
+<img src="./assets/teams-reminder.png" alt="screenshot of the sample" width="400"/>
 
 
 
@@ -19,7 +19,7 @@ MS Teams Reminder App is a simple and efficient tool designed to help users stay
 
 ## Flow Overview
 
-![screenshot of the sample](./assets/flow-overview.png)
+<img src="./assets/flow-overview.png" alt="screenshot of the sample" width="300"/>
 
 
 
@@ -27,7 +27,7 @@ MS Teams Reminder App is a simple and efficient tool designed to help users stay
 
 Version |Date              |Comments
 --------|------------------|--------------------------------
-1.0     |April 26, 2025 |Initial release
+1.0     |May 12, 2025 |Initial release
 
 
 

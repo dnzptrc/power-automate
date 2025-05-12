@@ -1,1 +1,47 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+    {
+    "type": "TextBlock",
+    "text": "When do you want to be reminded about the message?",
+    "weight": "Bolder",
+    "size": "Medium"
+    },
+    {
+    "type": "TextBlock",
+    "text": "Date:",
+    "wrap": true
+    },
+    {
+    "type": "Input.Date",
+     "spacing": "None",
+    "id": "remindDate"
+    },
+    {
+    "type": "TextBlock",
+    "text": "Time:",
+    "wrap": true
+    },
+    {
+    "type": "Input.Time",
+    "spacing": "None",
+    "id": "remindTime"
+    },
+    {
+     "placeholder": "Notes for reminder",
+    "type": "Input.Text",
+    "id": "NotesForReminder",
+     "isMultiline": true
+    }
+    ],
+    "actions": [
+    {
+    "type": "Action.Submit",
+    "title": "Submit",
+    "id": "btnSubmit"
+    }
+    ]
+    }
 
